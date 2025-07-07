@@ -1,0 +1,7 @@
+
+<div class="dropdown">
+  <button class="btn btn-secondary dropdown-toggle" data-bs-toggle="dropdown">Menu</button>
+  <ul class="dropdown-menu">
+    <li><a class="dropdown-item" href="#">Opção 1</a></li>
+  </ul>
+</div>
